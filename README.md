@@ -82,7 +82,7 @@ I then added hearts to appear around the cat after petting, looking into setInte
 - I would love to implement a way of having the hearts disappear over time, as when the user spams the mouse button, it can easily cover the whole canvas very quickly
 - This disappearing could be from transparency but also having the hearts animate moving upwards so that they move off the canvas and out of sight.
 
-#Reflection
+# Reflection
 - Overall, I found these new coding concepts to be interesting as I haven't experimented with them before and I can see how useful these will be in the future
 - I don't personally love this final output, however this is an experiment and as such it is rough. 
 - I liked how I challenged myself with an idea beforehand, making it so that I had more of a plan for what I wanted to make. Giving me a direction to go into for this workshop. 
