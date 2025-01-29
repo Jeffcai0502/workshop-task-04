@@ -49,6 +49,7 @@ function draw() {
 
 ## Forking Task pratice
 I started by understanding mremily9's art work in workshop 2.  It a an interative art.
-<img width="389" alt="截屏2025-01-29 上午10 38 17" src="https://github.com/user-attachments/assets/fb20770c-f233-4dad-aa95-8cf9348a9a6f" />
+
+<img width="400" alt="截屏2025-01-29 上午10 38 17" src="https://github.com/user-attachments/assets/fb20770c-f233-4dad-aa95-8cf9348a9a6f" />
 <img width="400" alt="截屏2025-01-29 上午10 38 45" src="https://github.com/user-attachments/assets/5016203a-b125-4f3c-8dc6-26b048dedb19" />
 
