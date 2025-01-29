@@ -193,6 +193,7 @@ function restartSketch() {
 ```
 
 ## Notes for interactions
+<img width="398" alt="截屏2025-01-30 上午12 16 45" src="https://github.com/user-attachments/assets/dd1e9df7-c2a9-41f3-a3f0-931016c7f7e6" />
 
 
 Mouse Interaction:
